@@ -36,7 +36,7 @@
   "packages": {
     "framework-quectel": {
         "type": "framework",
-        "version": "https://github.com/Wiz-IO/framework-quectel.git"
+        "version": "https://github.com/jackavenger/framework-quectel.git"
     },
     "toolchain-gccarmnoneeabi": {
         "type": "toolchain",
